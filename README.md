@@ -6,7 +6,7 @@
 - 🚀 Passionate about backend systems and algorithms
 - 🌍 Open-source contributor and enthusiast
 
-## Projects
+## My Open Source Projects
 - [Expandit](https://github.com/Muxammadamin-Ulmasaliyev/Expandit) - A system-wide text expander app for Windows OS
 - [Route Runner](https://github.com/Muxammadamin-Ulmasaliyev/Route-Runner-App) - API Client Desktop application 
 

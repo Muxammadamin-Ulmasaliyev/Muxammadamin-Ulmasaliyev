@@ -1,6 +1,9 @@
 # Hi, I'm Muxammadamin 👋
 
 ## About Me
+Software Engineer, passionate about backend development, algorithm
+design, and scalable software solutions. Experienced in building web applications and desktop solutions using Angular, .NET,
+WPF, WinForms
 - 🎓 Full-stack developer with expertise in Angular and .NET
 - 🏢 Currently working at Single Integrator Uzinfocom LLC
 - 🚀 Passionate about backend systems and algorithms

@@ -11,10 +11,22 @@
 - [Route Runner](https://github.com/Muxammadamin-Ulmasaliyev/Route-Runner-App) - API Client Desktop application 
 
 ## Skills
-- **Languages:** C#, C++, Java, TypeScript
-- **Frameworks:** Angular, .NET, ASP.NET Core, WPF, WinUI, WinForms
-- **Databases:** SQL Server, MySQL
-- **Tools:** Git, Azure, Entity Framework Core
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=angular,html,css,tailwind)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=azure,docker,dotnet&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,jenkins,visualstudio)
+
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muxammadamin-Ulmasaliyev&show_icons=true&count_private=true)
